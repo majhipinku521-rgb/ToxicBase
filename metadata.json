@@ -1,0 +1,6 @@
+{
+  "name": "ToxicBase",
+  "description": "Self-hosted Backend-as-a-Service platform with real REST APIs, SMS OTP & JWT authentication, multi-project NoSQL document database, security rules engine, admin console, and Android SDK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

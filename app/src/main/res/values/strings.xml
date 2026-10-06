@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToxicBase</string>
+    <string name="console_subtitle">SELF-HOSTED BAAS ENGINE &amp; ANDROID SDK</string>
+    <string name="nav_dashboard">Overview</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_auth">Auth &amp; OTP</string>
+    <string name="nav_users">Users</string>
+    <string name="nav_database">Database</string>
+    <string name="nav_api_keys">API Keys</string>
+    <string name="nav_rules">Rules</string>
+    <string name="nav_logs">Logs</string>
+    <string name="nav_usage">Usage</string>
+    <string name="nav_settings">Deploy &amp; SDK</string>
+    <string name="hero_banner_desc">ToxicBase Cloud Infrastructure Banner</string>
+</resources>
